@@ -1,4 +1,6 @@
 # AdventurerGame
 My RPG game project (WIP)
 
-[![Trailer](https://img.youtube.com/vi/NMuBH5vdJKs/default.jpg)](https://www.youtube.com/watch?v=NMuBH5vdJKs)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NMuBH5vdJKs" target="_blank">
+ <img src="http://img.youtube.com/vi/NMuBH5vdJKs/hqdefault.jpg" alt="Watch the video" width="600" height="400" border="1" />
+</a>
